@@ -1,6 +1,6 @@
 /** 158A - Next Round
   * http://codeforces.com/problemset/problem/158/A
-  * Category: Ad Hoc
+  * Category: Implementation
   */
 
 #include <bits/stdc++.h>

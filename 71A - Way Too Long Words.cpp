@@ -1,6 +1,6 @@
 /** 71A - Way Too Long Words
   * http://codeforces.com/problemset/problem/71/A
-  * Category: Ad Hoc
+  * Category: Implementation
   */
 
 #include <bits/stdc++.h>

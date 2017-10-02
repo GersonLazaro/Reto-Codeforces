@@ -1,2 +1,2 @@
 # Reto-Codeforces
-Solución de ejercicios Codeforces
+Solución de ejercicios Codeforces.
